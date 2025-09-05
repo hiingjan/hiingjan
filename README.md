@@ -51,61 +51,49 @@ OPIC IH
 
 
 ---
-
 <table width="100%">
-  <!-- 1행 -->
   <tr>
     <!-- 언어 -->
     <td align="center" width="33%" valign="top">
-      <div><b>언어</b></div>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+      <b>언어</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
       &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
     </td>
     <!-- 프레임워크 -->
     <td align="center" width="33%" valign="top">
-      <div><b>프레임워크</b></div>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
-      <br><br><br>
+      <b>프레임워크</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
     </td>
     <!-- 데이터베이스 -->
     <td align="center" width="33%" valign="top">
-      <div><b>데이터베이스</b></div>
-      <br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="mysql"/>
-      <br><br>
+      <b>데이터베이스</b><br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
     </td>
   </tr>
-  
-  <!-- 2행 -->
+
   <tr>
     <!-- 버전 관리 -->
     <td align="center" width="33%" valign="top">
-      <div><b>버전 관리</b></div>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+      <b>버전 관리</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
       &nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
-      <br><br>
+      <img src="https://skillicons.dev/icons?i=github" height="40"/>
     </td>
     <!-- 커뮤니케이션 -->
     <td align="center" width="33%" valign="top">
-      <div><b>커뮤니케이션</b></div>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack"/>
+      <b>커뮤니케이션</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>
       &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion"/>
-      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/>
     </td>
     <!-- 디자인 -->
     <td align="center" width="33%" valign="top">
-      <div><b>디자인</b></div>
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/>
-      <br><br><br>
+      <b>디자인</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
