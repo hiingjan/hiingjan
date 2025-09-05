@@ -1,5 +1,4 @@
 
-```html
 <table>
   <tr>
     <td width="30%" valign="top">
