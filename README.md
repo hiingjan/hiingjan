@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="center">“성장에 기여할 때, 가장 큰 보람을 느끼는”</h3>
 <h1 align="center">박형준 입니다.</h1>
 
