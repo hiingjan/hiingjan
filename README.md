@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-<img src="https://img.shields.io/badge/Hello-3776AB?style=flat&logo=PYTHON&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=GIT&logoColor=white"/>
 
