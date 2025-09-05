@@ -1,11 +1,9 @@
-<!-- 2-Column Resume-style README Section -->
 <table>
   <tr>
     <!-- LEFT COLUMN -->
     <td width="28%" valign="top">
 
       <!-- Profile -->
-      <img src="https://via.placeholder.com/480x600.png?text=Profile+Photo" alt="profile" style="border-radius:14px;">
 
       <br><br>
 
