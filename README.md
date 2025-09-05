@@ -86,5 +86,3 @@ OPIC IH
 
 </div>
 
-ChatGPT는
-
