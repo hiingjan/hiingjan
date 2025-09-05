@@ -10,7 +10,7 @@
 
 
 
-📧 **Email**: phjung1216@naver.com  
+📧 **Email**: `phjung1216@naver.com`
 
 📱 **Phone**: 010-7576-7562  
 
