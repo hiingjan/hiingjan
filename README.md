@@ -64,7 +64,6 @@ OPIC IH
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
       <br><br>
     </td>
-
     <!-- 프레임워크 -->
     <td align="center" width="33%" valign="top">
       <div><b>프레임워크</b></div>
@@ -72,7 +71,6 @@ OPIC IH
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
       <br><br><br>
     </td>
-
     <!-- 데이터베이스 -->
     <td align="center" width="33%" valign="top">
       <div><b>데이터베이스</b></div>
@@ -81,7 +79,7 @@ OPIC IH
       <br><br>
     </td>
   </tr>
-
+  
   <!-- 2행 -->
   <tr>
     <!-- 버전 관리 -->
@@ -93,7 +91,6 @@ OPIC IH
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
       <br><br>
     </td>
-
     <!-- 커뮤니케이션 -->
     <td align="center" width="33%" valign="top">
       <div><b>커뮤니케이션</b></div>
@@ -103,7 +100,6 @@ OPIC IH
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion"/>
       <br><br>
     </td>
-
     <!-- 디자인 -->
     <td align="center" width="33%" valign="top">
       <div><b>디자인</b></div>
